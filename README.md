@@ -1,4 +1,3 @@
-
 # Data processing
 ## Gender ;parental level of education ;lunch ;test preparation course
 ![alt text](<https://github.com/minhAI2045/Predicting-writing-score/raw/main/Data_Preprocessing/gender__parental level of education__lunch__test preparation course after preprocessing.png>)
