@@ -47,7 +47,7 @@ The following points were the objective of the project . If you are looking for 
 
 
 ### CorrelationMatrix
-<img target="_blank" src="https://github.com/minhAI2045/Predicting-diabetes/blob/main/Correlation_Matrix.png" width=570>
+<img target="_blank" src="https://github.com/minhAI2045/Predicting-diabetes1/blob/main/Correlation%20Matrix/Correlation_Matrix.png" width=570>
 
 
 
@@ -58,7 +58,7 @@ The following points were the objective of the project . If you are looking for 
 ###  Model Evaluation 
 - RandomForestClassifier
 
-<img target="_blank" src="https://github.com/minhAI2045/Predicting-diabetes/blob/main/RandomForestClassifier.png" width=370>
+<img target="_blank" src="https://github.com/minhAI2045/Predicting-diabetes1/blob/main/Model%20Evaluation/RandomForestClassifier.png" width=370>
 
                   precision    recall  f1-score   support
 
@@ -71,7 +71,7 @@ The following points were the objective of the project . If you are looking for 
 
 - Support Vector Machine
 
-<img target="_blank" src="https://github.com/minhAI2045/Predicting-diabetes/blob/main/SVC.png" width=370>
+<img target="_blank" src="https://github.com/minhAI2045/Predicting-diabetes1/blob/main/Model%20Evaluation/SVC.png" width=370>
 
 
 
@@ -87,7 +87,7 @@ The following points were the objective of the project . If you are looking for 
 
 - KNeighborsClassifier 
 
-<img target="_blank" src="https://github.com/minhAI2045/Predicting-diabetes/blob/main/KNeighborsClassifier.png" width=370>
+<img target="_blank" src="https://github.com/minhAI2045/Predicting-diabetes1/blob/main/Model%20Evaluation/KNeighborsClassifier.png" width=370>
 
               precision    recall  f1-score   support
 
