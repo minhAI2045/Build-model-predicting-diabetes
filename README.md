@@ -5,9 +5,9 @@
   * [Overview](#overview)
   * [Motivation](#motivation)
   * [Learning Objective](#Learning-Objective)
-  * [Data Visualizations](#Data Visualizations)
+  * [Data Visualizations](#Data-Visualizations)
   * [CorrelationMatrix](#CorrelationMatrix)
-  * [Model Evaluation](#Model Evaluation)
+  * [Model Evaluation](#Model-Evaluation)
   
 
 
