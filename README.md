@@ -59,13 +59,14 @@ The following points were the objective of the project . If you are looking for 
 
 <img target="_blank" src="https://github.com/minhAI2045/Predicting-diabetes1/blob/main/Model%20Evaluation/RandomForestClassifier.png" width=370>
 
-              precision    recall  f1-score   support
+                     precision    recall   f1-score   support
 
-           0       0.79      0.79      0.79        99
-           1       0.62      0.62      0.62        55
-    accuracy                           0.73       154
-    macro avg      0.70      0.70      0.70       154
-    weighted avg   0.73      0.73      0.73       154
+    Not Diabetic         0.79      0.79      0.79        99
+    Diabetic             0.62      0.62      0.62        55
+           
+    accuracy                                 0.73       154
+    macro avg            0.70      0.70      0.70       154
+    weighted avg         0.73      0.73      0.73       154
 
 
 - Support Vector Machine
