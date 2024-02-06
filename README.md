@@ -89,14 +89,14 @@ The following points were the objective of the project . If you are looking for 
 
 <img target="_blank" src="https://github.com/minhAI2045/Predicting-diabetes1/blob/main/Model%20Evaluation/KNeighborsClassifier.png" width=370>
 
-              precision    recall  f1-score   support
+                 precision    recall   f1-score   support
 
-           0       0.76      0.80      0.78        99
-           1       0.60      0.55      0.57        55
+    Not Diabetic     0.76      0.80      0.78        99
+    Diabetic         0.60      0.55      0.57        55
 
-    accuracy                           0.71       154
-    macro avg      0.68      0.67      0.67       154
-    weighted avg   0.70      0.71      0.70       154
+    accuracy                             0.71       154
+    macro avg        0.68      0.67      0.67       154
+    weighted avg     0.70      0.71      0.70       154
 
 
 
